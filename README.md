@@ -1,7 +1,7 @@
 # LLM: Question-answering with RAG
 
 ## Introduction
-Welcome to the LLM EXplanation repository!
+Welcome to the LLM Explanation repository!
 
 This project is dedicated to providing a detailed understanding of the creation and operation of an LLM (Large Language Model) designed to answer questions from students, teachers and collaborators at the Universidad Autónoma de Occidente in Cali, Colombia.
 
@@ -28,7 +28,7 @@ The images used in this project were obtained from [here](https://medium.com/@on
 
 The initial code was based on this [link](https://medium.com/@Sanjjushri/rag-pdf-q-a-using-llama-2-in-8-steps-021a7dbe26e1). It is important to note that one of the key differences in this implementation is the incorporation of Llama3. A way was found to integrate it with the existing code, which improved the performance and functionality of the model. 
 
-For more details on this integration, see link_to_the_complete_explanation (will be ready soon).
+For more details on this integration, see link_to_the_execution_explanation (will be ready soon).
 
 ## <b> Let's Connect!!</b>
 
