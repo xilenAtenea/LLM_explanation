@@ -9,9 +9,7 @@ Using the LangChain framework and Ollama, an initial prototype has been develope
 
 It is important to note that since this is an initial prototype, a limited amount of information has been used. The main objective of this project is to understand how the model works, how it must be created to work properly, the implemented RAG (Retrieval Augmented Generation) structure and, in general, how to implement the project in a functional way.
 
-The repository includes a detailed notebook that explains some concepts considered key and shows the process of creating the model along with some images that provide visual support. In addition, an additional repository was created and is available at the following [link](https://github.com/xilenAtenea/LLM-for-Question-answering), which contains the complete implementation of the model together with the necessary documentation for its use and execution.
-
-Please note that this current repository is designed for educational and explanatory purposes only. We do not provide detailed instructions on how to use it or detail prerequisites, as its main purpose is to provide an in-depth understanding of how the model works.
+The repository includes a detailed notebook that explains some concepts considered key and shows the process of creating the model along with some images that provide visual support. Please note that this current repository is designed for educational and explanatory purposes only. We do not provide detailed instructions on how to use it or detail prerequisites, as its main purpose is to provide an in-depth understanding of how the model works.
 
 ## Repository Structure
 
@@ -27,8 +25,6 @@ Remember that an additional repository will be released very soon that will allo
 The images used in this project were obtained from [here](https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed), which provides visual resources relevant to the content presented in the notebook.
 
 The initial code was based on this [link](https://medium.com/@Sanjjushri/rag-pdf-q-a-using-llama-2-in-8-steps-021a7dbe26e1). It is important to note that one of the key differences in this implementation is the incorporation of Llama3. A way was found to integrate it with the existing code, which improved the performance and functionality of the model. 
-
-For more details on this integration, see my [implementation repository](https://github.com/xilenAtenea/LLM-for-Question-answering).
 
 ## <b> Let's Connect!!</b>
 
